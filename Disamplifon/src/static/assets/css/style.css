@@ -1252,6 +1252,7 @@ html {
   flex-direction: column;
 }
 
+.pagetitle,
 .section,
 .footer {
   flex: 1;
