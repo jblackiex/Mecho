@@ -42,7 +42,7 @@ h6 {
 # Main
 --------------------------------------------------------------*/
 #main {
-  margin-top: 10px;
+  margin-top: 60px;
   padding: 20px 30px;
   transition: all 0.3s;
 }
@@ -634,7 +634,6 @@ h6 {
   #main,
   #footer {
     margin-left: 300px;
-    background-color: white;
   }
 }
 
@@ -1215,10 +1214,9 @@ h6 {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  padding: 10px 0 10px 0;
+  padding: 20px 0;
   font-size: 14px;
   transition: all 0.3s;
-  background-color: white;
   border-top: 1px solid #cddfff;
 }
 
@@ -1232,134 +1230,4 @@ h6 {
   text-align: center;
   font-size: 13px;
   color: #012970;
-}
-
-footer {
-  height: 60px;
-  background-color: white;
-}
-
-body,
-html {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  overflow: hidden;
-}
-
-#main {
-  display: flex;
-  flex-direction: column;
-}
-
-.pagetitle,
-.section,
-.footer {
-  flex: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-/* General Styles */
-body {
-  font-family: "Open Sans", sans-serif;
-  background: #f6f9ff;
-  color: #444444;
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-  margin: 0;
-}
-
-a {
-  color: #4154f1;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #717ff5;
-  text-decoration: none;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Nunito", sans-serif;
-}
-
-/* Main Content */
-#main {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-/* Page Title */
-.pagetitle {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.pagetitle h1 {
-  font-size: 24px;
-  margin-bottom: 0;
-  font-weight: 600;
-  color: #012970;
-}
-
-.pagetitle .breadcrumb {
-  display: flex;
-  justify-content: center;
-}
-
-/* Footer */
-.footer {
-  padding: 10px 0;
-  font-size: 14px;
-  background-color: white;
-  border-top: 1px solid #cddfff;
-  width: 100%;
-}
-
-.nav-tabs-bordered {
-  border-bottom: 2px solid #ebeef4;
-}
-
-.nav-tabs-bordered .nav-link {
-  margin-bottom: -2px;
-  border: none;
-  color: #2c384e;
-}
-
-.nav-tabs-bordered .nav-link:hover,
-.nav-tabs-bordered .nav-link:focus {
-  color: #4154f1;
-}
-
-.nav-tabs-bordered .nav-link.active {
-  background-color: #fff;
-  color: #4154f1;
-  border-bottom: 2px solid #4154f1;
-}
-
-/* Logo Styles */
-.logo-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.logo {
-  width: 200px;
-  height: 200px;
-}
-
-#footer {
-  margin-bottom: 10px;
 }
