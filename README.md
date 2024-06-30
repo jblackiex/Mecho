@@ -9,7 +9,7 @@ Mecho è una web app innovativa progettata per migliorare l'esperienza sonora ne
 3. **Matcho Figma Prototype:** https://www.figma.com/proto/VGb7ZUM0njvMviZ4fSnRrh/Mecho?node-id=116-2395&viewport=449%2C487%2C0.19&t=8Ex6r4O0NOMxoR2F-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=116%3A2609
 3. **Matcho Video:🚨 DA COMPLETARE 🚨** 
 
-## Poc 1 - 🚨 DA COMPLETARE 🚨
+## PoC 1 - 🚨 DA COMPLETARE 🚨
 
 ### Descrizione Progetto
 Spiegare il procedimento che ci ha portato al risultato ed il senso della soluzione attuale anche vista in prospettiva per i prossimi mesi.
@@ -52,7 +52,10 @@ Spiegare il procedimento che ci ha portato al risultato ed il senso della soluzi
    http://localhost:3000
    ```
 
-## PoC 2 - 🚨 DA COMPLETARE 🚨
+## PoC 2 - Standalone - 🚨 DA COMPLETARE 🚨
+
+### Descrizione Progetto
+Spiegare il procedimento che ci ha portato al risultato ed il senso della soluzione attuale anche vista in prospettiva per i prossimi mesi.
 
 ### Struttura della Repository - 🚨 DA COMPLETARE 🚨
 - **/docs:** Documentazione del progetto, guide utente e API.
