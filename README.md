@@ -48,3 +48,29 @@ Dato lo scarso tempo a disposizione non siamo riusciti a completare l'intero pro
    ```
 
 ## PoC 2 - Prototype 🤖
+
+Questo prototipo e' stato aggiunto a scopo illustrativo, dato che a causa di limitazioni di tempo, non siamo riusciti a fare un'adeguata implementazione.
+E' stato utilizzato durante le fasi di sviluppo per ottenere chiarimenti sulla fattibilita' del progetto stesso.
+L'idea era quella di riuscire ad isolare i rumori fastidiosi, per poi crearne una traccia in anti-fase da mandare al dispositivo del client, che avrebbe dovuto riprodurla per ridurre il volume di tali rumori tramite l'effetto dell'interferenza distruttiva.
+Inizialmente questo prototipo avrebbe dovuto far parte del back-end e ripulire una traccia audio da potenziali rumori;
+Idealmente sarebbe stato in grado di riconoscere i rumori e rimuoverli tramite l'utilizzo di una traccia in anti-fase.
+Questo era troppo complesso da realizzare, per cui e' stato optato di svilupparne una versione che semplicemente potesse dimostrare tale concetto, senza la funzionalita' di riconoscere i rumori.
+Alla fine e' stato utilizzata un altro metodo per dimostrare la nostra idea e questo prototipo riadattato come elemento stand-alone per mostrare l'andamento dello sviluppo.
+Il prototipo possiede delle tracce audio sporche e dei file contenenti i rumori utilizzati per sporcarla, come risultato si ottiene una traccia abbastanza pulita dell'audio originale.
+
+### Installazione
+1. **Clona la repository:**
+   ```sh
+   git clone https://github.com/jblackiex/Disamplifon.git
+   cd Prototype
+   ```
+
+2. **Installa le dipendenze:**
+   ```sh
+   ./dependencies.sh
+   ```
+
+3. **Avvia l'app:**
+   ```sh
+   node prototype.js samples/"sample_da_utilizzare" q(valore rappresentativo dei rumori utilizzati)
+   ```
