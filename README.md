@@ -5,9 +5,9 @@ Mecho è una web app innovativa progettata per migliorare l'esperienza sonora ne
 ### Documenti correlati
 
 1. **Lean Model Canvas (Miro Board):** https://miro.com/app/board/uXjVK3byod0=/?share_link_id=9241471735
-2. **Matcho Pitch Deck:** https://pitch.com/v/mecho-5bkhpz
-3. **Matcho Figma Prototype:** https://www.figma.com/proto/VGb7ZUM0njvMviZ4fSnRrh/Mecho?node-id=116-2395&viewport=449%2C487%2C0.19&t=8Ex6r4O0NOMxoR2F-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=116%3A2609
-3. **Matcho Video:** https://drive.google.com/file/d/1sBwLNB3UP4VcZoqi3g00rtt3zpmkvMmg/view?usp=sharing
+2. **Mecho Pitch Deck:** https://pitch.com/v/mecho-5bkhpz
+3. **Mecho Figma Prototype:** https://www.figma.com/proto/VGb7ZUM0njvMviZ4fSnRrh/Mecho?node-id=116-2395&viewport=449%2C487%2C0.19&t=8Ex6r4O0NOMxoR2F-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=116%3A2609
+3. **Mecho Video:** https://drive.google.com/file/d/1sBwLNB3UP4VcZoqi3g00rtt3zpmkvMmg/view?usp=sharing
 
 ### Descrizione Progetto
 L'idea di base era quella di creare un'applicazione che permettesse di filtrare i suoni circostanti in tempo reale, sfruttando il principio dell'interferenza distruttiva. L'applicazione permette di ridurre l'esposizione a rumori molesti e di controllare il livello di esposizione a suoni elevati.
