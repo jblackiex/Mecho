@@ -47,16 +47,8 @@ async function removeNoise(origin, q) {
 }
 
 if (process.argv.length < 4) {
-    console.log("Usage: node server.js <origin> <q>");
+    console.log("Usage: node prototype.js <origin> <q>");
     return;
 }
 
 removeNoise(process.argv[2], process.argv[3]);
-
-//6 supersayan angelinvestor
-//7 supersayan angelinvestor checco
-//10 ahegao angelinvestor
-//11 ahegao angelinvestor checco
-//13 ahegao supersayan checco
-//14 ahegao supersayan angelinvestor
-//15 ahegao supersayan angelinvestor checco
