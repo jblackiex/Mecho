@@ -45,6 +45,8 @@ Dato lo scarso tempo a disposizione non siamo riusciti a completare l'intero pro
 4. **Visita l'app nel browser** 🌍
    ```
    http://localhost:1024
+
+   poi premere F12
    ```
 
 ## PoC 2 - Prototype 🤖
